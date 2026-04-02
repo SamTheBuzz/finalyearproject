@@ -1,0 +1,10 @@
+ENSEMBLE Classification Report
+
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99    123133
+           1       0.95      0.48      0.63      5553
+
+    accuracy                           0.98    128686
+   macro avg       0.96      0.74      0.81    128686
+weighted avg       0.98      0.98      0.97    128686

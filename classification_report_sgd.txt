@@ -1,0 +1,10 @@
+SGD Classification Report
+
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99    123133
+           1       0.88      0.69      0.77      5553
+
+    accuracy                           0.98    128686
+   macro avg       0.93      0.84      0.88    128686
+weighted avg       0.98      0.98      0.98    128686
